@@ -1,0 +1,3 @@
+# Root requirements (Render-safe). Installs dependencies used by API + worker.
+-r apps/api/requirements.txt
+-r apps/worker/requirements.txt
